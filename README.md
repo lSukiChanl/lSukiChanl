@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://typograssy.deno.dev/api?text=Suki-Chan💜!&l0=none&bg=none&frame=none&speed=100&comment=)
+![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=)
   
 </div>
 
@@ -12,7 +12,7 @@
 
 ☕ About me
 
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/693558348276301884/693559985459822692/021.png"></a>
 
 I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
 
