@@ -10,7 +10,7 @@
 
 **Weeb Developer and Gamer** 
 
-☕ About me
+## **☕ About me**
 
 <a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/693558348276301884/693559985459822692/021.png"></a>
 
