@@ -9,3 +9,8 @@
 ### Hi! I'm ** `Suki-Chan 💜`
 
 **Weeb Developer and Gamer** 
+
+☕ About me
+
+I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
+
