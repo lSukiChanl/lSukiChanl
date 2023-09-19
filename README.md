@@ -16,7 +16,7 @@
 
 I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
 
-<br><br><br><br><br><br>
+<br><br>
 <h2 align="center">💻 Experience 💻</h2>
 <br>
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
@@ -25,7 +25,7 @@ After graduating, work as a freelancer.
 Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos).
 
 
-<br><br><br><br><br><br>
+<br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
@@ -45,14 +45,12 @@ Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
 <h2></h2>
-<br><br><br><br><br>
+<br><br>
 
 
-
-## **🧋Cutie Counter**
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
-</p> -->
+<br><br>
+<h2 align="center">🧋 Cutie Counter 🧋</h2>
+<br>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lSukiChanl?theme=rule34"></a>
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
