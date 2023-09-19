@@ -58,7 +58,9 @@ Coming soon... I'm sleepy
 <a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://media.discordapp.net/attachments/620099038414635030/1153734387058360512/H.png"></a>
 
 ```yaml
-People who visit my profile :3.
+People who visit my profile.
 
 Hehe~ another cutie has been caught.
+
+Huggie from ~ 💜 Suki-Chan 💜.
 ```
