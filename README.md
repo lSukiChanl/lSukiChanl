@@ -20,7 +20,10 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 ## **💻 Experience**
 <br>
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying software engineering at [ITO - Tecnológico Nacional de México Instituto Tecnológico de Orizaba](#). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I am a Graduate of Computer Systems Engineering at [ITO - Tecnológico Nacional de México Instituto Tecnológico de Orizaba](http://www.orizaba.tecnm.mx/). Engineering for 5 years at the Collage and I am still learning.
+After graduating, work as a freelancer.
+Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos)
+
 
 <br>
 ## ** 🧑‍💻 Most Used Technologies 🧑‍💻 **
