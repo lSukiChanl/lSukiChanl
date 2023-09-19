@@ -10,7 +10,7 @@
 
 **Weeb Developer and Gamer** 
 
-## ** ☕ About me **
+<h2 align="center">☕ About me ☕</h2>
 
 <a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/693558348276301884/693559985459822692/021.png"></a>
 
@@ -24,8 +24,7 @@ I am a Graduate of Computer Systems Engineering at [ITO - Tecnológico Nacional 
 After graduating, work as a freelancer.
 Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos).
 
-
-<br><br>
+<br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
@@ -45,10 +44,9 @@ Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
 <h2></h2>
-<br><br>
+<br>
 
-
-<br><br>
+<br>
 <h2 align="center">🧋 Cutie Counter 🧋</h2>
 <br>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lSukiChanl?theme=rule34"></a>
