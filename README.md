@@ -25,7 +25,6 @@ Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB
 
 <br>
 ## **🧑‍💻 Most Used Technologies 🧑‍💻**
-
 <br>
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="54" height5464" style="vertical-align:top; margin:4px;">
