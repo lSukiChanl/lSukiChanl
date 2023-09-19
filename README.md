@@ -5,8 +5,8 @@
 </div>
 
 <a href="https://discord.com/users/317527070576214018"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/317527070576214018?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-
-### Hi! I'm `Suki-Chan` 💜 
+ 
+<h2 align="center">💜 Hi! I'm `Suki-Chan` 💜 ☕</h2>
 
 **Weeb Developer and Gamer** 
 
@@ -16,7 +16,7 @@
 
 I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
 
-<br><br>
+<br>
 <h2 align="center">💻 Experience 💻</h2>
 <br>
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
