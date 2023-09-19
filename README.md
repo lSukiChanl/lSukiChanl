@@ -20,7 +20,11 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="54" height="54" style="vertical-align:top; margin:4px;">
