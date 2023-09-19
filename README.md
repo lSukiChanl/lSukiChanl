@@ -20,9 +20,9 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
-	<i class="devicon-github-original" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;"></i>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
