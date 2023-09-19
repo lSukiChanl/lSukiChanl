@@ -29,7 +29,6 @@ After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Li
 Coming soon... I'm sleepy
 </p>
 
-<br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
