@@ -7,12 +7,11 @@
 <a href="https://discord.com/users/317527070576214018"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/317527070576214018?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
  
 <h2 align="center">Hi!, I'm 💜 Suki-Chan 💜</h2>
-<p align="center"> **Weeb Developer Otaku and Gamer** </p>
-
+<p align="center"> <b> Weeb Developer Otaku and Gamer </b> </p>
 
 <h2 align="center">☕ About me ☕</h2>
 <a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/693558348276301884/693559985459822692/021.png"></a>
-I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
+<p align="justify"> <b> I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding. </b> </p>
 
 <br>
 <h2 align="center">💻 Experience 💻</h2>
