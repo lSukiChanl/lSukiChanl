@@ -19,12 +19,14 @@
 <a href="https://github.com/lSukiChanl"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 <p align="justify"> 
 I am a Graduate of Computer Systems Engineering at <b> [ITO - Tecnológico Nacional de México Instituto Tecnológico de Orizaba] </b>. Engineering for 5 years at the Collage and I am still learning.
-<br>
+<br><br>
 After graduating, work as a freelancer.
 <br>
 Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos).
+<br><br>
 After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Lider!</b>
 <br>
+Coming soon... I'm sleepy
 </p>
 
 <br>
