@@ -16,7 +16,7 @@
 <br>
 <h2 align="center">💻 Experience 💻</h2>
 <br>
-<a href="https://github.com/lSukiChanl"><img align="right" width="100" src="https://media.discordapp.net/attachments/620099038414635030/1153723538151313459/dd.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="right" width="110" src="https://media.discordapp.net/attachments/620099038414635030/1153723538151313459/dd.png"></a>
 <p align="justify"> 
 I am a Graduate of Computer Systems Engineering at <b> [ITO - Tecnológico Nacional de México Instituto Tecnológico de Orizaba] </b>. Engineering for 5 years at the Collage and I am still learning.
 <br><br>
@@ -29,7 +29,7 @@ After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Li
 Coming soon... I'm sleepy
 </p>
 
-<br>
+<br><br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
