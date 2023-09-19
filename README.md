@@ -29,6 +29,7 @@ After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Li
 Coming soon... I'm sleepy
 </p>
 
+<br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
@@ -54,7 +55,7 @@ Coming soon... I'm sleepy
 <h2 align="center">🧋 Cutie Counter 🧋</h2>
 <br>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lSukiChanl?theme=rule34"></a>
-<a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://media.discordapp.net/attachments/620099038414635030/1153734387058360512/H.png"></a>
 
 ```yaml
 People who visit my profile :3.
