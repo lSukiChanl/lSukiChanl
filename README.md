@@ -23,27 +23,6 @@ I am a Graduate of Computer Systems Engineering at [ITO - Tecnológico Nacional 
 After graduating, work as a freelancer.
 Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos).
 
-<br>
-## **🧑‍💻 Most Used Technologies 🧑‍💻**
-<br>
-<p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="54" height5464" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="54" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="54" height="54" style="vertical-align:top; margin:4px;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
-</p>
-<h2></h2>
-<br>
 
 <br><br><br><br><br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
