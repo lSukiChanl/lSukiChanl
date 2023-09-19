@@ -13,7 +13,7 @@
 <h2 align="center">☕ About me ☕</h2>
 <p align="justify"> <b> I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding. </b> </p>
 
-
+<br>
 <h2 align="center">💻 Experience 💻</h2>
 <br>
 <a href="https://github.com/lSukiChanl"><img align="right" width="125" src="https://media.discordapp.net/attachments/620099038414635030/1153723538151313459/dd.png"></a>
