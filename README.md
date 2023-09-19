@@ -28,6 +28,7 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
