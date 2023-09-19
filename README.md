@@ -20,21 +20,21 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="54" height5464" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="54" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="54" height="54" style="vertical-align:top; margin:4px;">
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="Postgres" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
 <h2></h2>
 <br><br>
