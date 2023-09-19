@@ -5,7 +5,7 @@
 </div>
  
 <h2 align="center">Hi!, I'm 💜 Suki-Chan 💜</h2>
-<a href="https://github.com/lSukiChanl"><img align="left" width="130" src="https://cdn.discordapp.com/attachments/620099038414635030/1153727760414539848/MinionD.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="left" width="133" src="https://cdn.discordapp.com/attachments/620099038414635030/1153727760414539848/MinionD.png"></a>
 <a href="https://discord.com/users/317527070576214018"><img align="right" width="400" src="https://lanyard.kyrie25.me/api/317527070576214018?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 <p align="center"> <b> Weeb Developer Otaku and Gamer </b> </p>
