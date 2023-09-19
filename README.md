@@ -10,14 +10,19 @@
 
 **Weeb Developer and Gamer** 
 
-## **☕ About me**
+## ** ☕ About me **
 
 <a href="https://github.com/lSukiChanl"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/693558348276301884/693559985459822692/021.png"></a>
 
 I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
 
+## **💻 Experience**
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+
 <br><br>
-<h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
+## ** 🧑‍💻 Most Used Technologies 🧑‍💻 **
+
 <br>
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="54" height5464" style="vertical-align:top; margin:4px;">
