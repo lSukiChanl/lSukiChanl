@@ -24,14 +24,12 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<br>
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
-	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="csharp" width="64" height="64" style="vertical-align:top; margin:4px;">
