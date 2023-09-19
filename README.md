@@ -16,7 +16,7 @@
 
 I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding.
 
-<br><br><br><br><br><br>
+<br><br>
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
@@ -33,7 +33,7 @@ I'm Suki-Chan a Hikikomori + NEET and my hobbies are playing games, watching ani
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
 <h2></h2>
-<br><br><br><br><br>
+<br><br>
 
 
 ## **🧋Cutie Counter**
