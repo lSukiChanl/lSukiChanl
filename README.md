@@ -1,7 +1,11 @@
 <div align="center">
   
-![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=)
-  
+<!-- ![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=) -->
+
+![Preview](https://media.discordapp.net/attachments/620099038414635030/1154157370545545377/FD.png)
+
+<a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+
 </div>
  
 <h2 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h2>
@@ -66,5 +70,19 @@ Huggie from ~ 💜 Suki-Chan 💜.
 
 <h2 align="center">🧋 Contact 🧋</h2>
 <p align="center"> 
-Coming soon... I'm sleepy
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://github.com/lSukiChanl">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://discord.com/users/738748102311280681" >
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src=https://cdn.discordapp.com/attachments/1071301618844303420/1154160732741578782/MenGi.gif width="400" height="auto">
+</div>
+
 </p>
