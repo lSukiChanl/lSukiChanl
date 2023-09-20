@@ -50,7 +50,6 @@ Coming soon... I'm sleepy
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="54" height="54" style="vertical-align:top; margin:4px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
 </p>
-<h2></h2>
 <br>
 
 <h2 align="center">🧋 𝓒𝓾𝓽𝓲𝓮 𝓒𝓸𝓾𝓷𝓽𝓮𝓻 🧋</h2>
