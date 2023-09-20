@@ -56,7 +56,7 @@ Coming soon... I'm sleepy
 <h2 align="center">🧋 𝓒𝓾𝓽𝓲𝓮 𝓒𝓸𝓾𝓷𝓽𝓮𝓻 🧋</h2>
 <br>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lSukiChanl?theme=rule34"></a>
-<a href="https://github.com/lSukiChanl"><img align="left" width="125" src="https://media.discordapp.net/attachments/620099038414635030/1153734387058360512/H.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="left" width="110" src="https://media.discordapp.net/attachments/620099038414635030/1153734387058360512/H.png"></a>
 
 ```yaml
 People who visit my profile.
