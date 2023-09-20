@@ -66,7 +66,7 @@ Hehe~ another cutie has been caught.
 Huggie from ~ 💜 Suki-Chan 💜.
 ```
 
-<h2 align="center">🧋 Contact 🧋</h2>
+<h2 align="center">💬 Contact 💬</h2>
 <p align="center"> 
 
 <div align="center">
