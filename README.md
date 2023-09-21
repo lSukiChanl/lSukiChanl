@@ -27,8 +27,8 @@ After graduating, work as a freelancer.
 Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB Pages with HTTPS Protocol and Email System. The Pages were made at the User's Request. Some examples are (A Website to manage the management of a Company's employees), (A Personal Blog where the user can attach photos and videos), (A Library To store documents, photos, videos).
 <br><br>
 After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Lider!</b>
-<br>
-Coming soon... I'm sleepy
+<br><br>
+About this job... Coming soon... I'm sleepy
 </p>
 
 <br>
