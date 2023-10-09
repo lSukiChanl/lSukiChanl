@@ -70,7 +70,7 @@ Huggie from ~ 💜 Suki-Chan 💜.
 <p align="center"> 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
+  <a href="https://www.linkedin.com/in/cristian-mendez-galicia-45b0741bb/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <a href="https://github.com/lSukiChanl">
