@@ -28,7 +28,7 @@ Creating web pages for different clients, using VPS, Hestia Panel, to deploy WEB
 <br><br>
 After working as a freelancer, I joined the company <b> Grupo Raga ¡Sigan al Lider!</b>
 <br><br>
-About this job... Coming soon... I'm sleepy ....
+About this job... Coming soon... I'm sleepy .....
 </p>
 
 <br>
