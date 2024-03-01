@@ -2,7 +2,7 @@
   
 <!-- ![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=) -->
 
-![Preview](https://raw.githubusercontent.com/lSukiChanl/lSukiChanl/main/Menhera2.png)
+![Preview](https://raw.githubusercontent.com/lSukiChanl/lSukiChanl/main/Menhera4.png)
 
 </div>
  
