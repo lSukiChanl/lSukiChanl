@@ -12,7 +12,7 @@
 
 <p align="center"> <b> Weeb Developer Otaku and Gamer </b> </p>
 
-<h2 align="center">☕ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ☕</h2>
+<h3 align="center">☕ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ☕</h3>
 <p align="justify"> <b> I'm Suki-Chan a Hikikomori and my hobbies are playing games, watching anime, and sometimes tinkering with random stuff like coding. </b> </p>
 
 <br>
