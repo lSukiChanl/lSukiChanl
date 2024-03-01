@@ -2,7 +2,7 @@
   
 <!-- ![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=) -->
 
-![Preview](https://media.discordapp.net/attachments/620099038414635030/1154157370545545377/FD.png)
+![Preview](https://github.com/lSukiChanl/lSukiChanl/blob/main/Menhera2.png)
 
 </div>
  
