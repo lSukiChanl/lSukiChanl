@@ -18,7 +18,7 @@
 <br>
 <h2 align="center">💻 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 💻</h2>
 <br>
-<a href="https://github.com/lSukiChanl"><img align="right" width="125" src="https://media.discordapp.net/attachments/620099038414635030/1153723538151313459/dd.png"></a>
+<a href="https://github.com/lSukiChanl"><img align="right" width="125" src="https://raw.githubusercontent.com/lSukiChanl/lSukiChanl/main/Menhera1.png"></a>
 <p align="justify"> 
 I am a Graduate of Computer Systems Engineering at <b> [ITO - Tecnológico Nacional de México Instituto Tecnológico de Orizaba] </b>. Engineering for 5 years at the Collage and I am still learning.
 <br><br>
