@@ -1,7 +1,5 @@
 <div align="center">
-  
-<!-- ![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=) -->
-
+	
 ![Preview](https://raw.githubusercontent.com/lSukiChanl/lSukiChanl/main/Menhera4.png)
 
 </div>
@@ -54,6 +52,9 @@ About this job... Coming soon... I'm sleepy ..........
 <hr>
 <br>
 
-![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=)
+<div align="center">
+  
+![Preview](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=200&comment=)
 
-</p>
+</div>
+
