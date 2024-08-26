@@ -35,52 +35,25 @@ About this job... Coming soon... I'm sleepy ..........
 <h2 align="center">🧑‍💻 𝓜𝓸𝓼𝓽 𝓤𝓼𝓮𝓭 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼 🧑‍💻</h2>
 <br>
 <p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="54" height5464" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="54" height="64" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="54" height="54" style="vertical-align:top; margin:4px;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="54" height="54" style="vertical-align:top; margin:4px;">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="54" height="54" style="vertical-align:top; margin:4px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="64" >
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="64" height="64">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" width="64" height="64">
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="Mysql" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="64" height="64">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="64" height="64">
 </p>
 <br>
 
-<h2 align="center">🧋 𝓒𝓾𝓽𝓲𝓮 𝓒𝓸𝓾𝓷𝓽𝓮𝓻 🧋</h2>
+<hr>
 <br>
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lSukiChanl?theme=rule34"></a>
-<a href="https://github.com/lSukiChanl"><img align="left" width="115" src="https://media.discordapp.net/attachments/620099038414635030/1153734387058360512/H.png"></a>
 
-```yaml
-People who visit my profile.
-
-Hehe~ another cutie has been caught.
-
-Huggie from ~ 💜 Suki-Chan 💜.
-```
-
-<br>
-<h2 align="center">💬 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 💬</h2>
-<p align="center"> 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cristian-mendez-galicia-45b0741bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
-  <a href="https://github.com/lSukiChanl">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
-  </a>
-  <a href="https://discord.com/users/738748102311280681" >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
-  <br>
-  <img src=https://cdn.discordapp.com/attachments/1071301618844303420/1154160732741578782/MenGi.gif width="400" height="auto">
-</div>
+![](https://typograssy.deno.dev/api?text=Suki-Chan!&l0=none&bg=none&frame=none&speed=100&comment=)
 
 </p>
